@@ -1,0 +1,16 @@
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.PersonApp\bin\Debug\netcoreapp2.1\AC.PersonApp.deps.json
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.PersonApp\bin\Debug\netcoreapp2.1\AC.PersonApp.dll
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.PersonApp\bin\Debug\netcoreapp2.1\AC.PersonApp.pdb
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.PersonApp\bin\Debug\netcoreapp2.1\AC.Domain.dll
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.PersonApp\bin\Debug\netcoreapp2.1\AC.Infrastruture.dll
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.PersonApp\bin\Debug\netcoreapp2.1\AC.Persistence.dll
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.PersonApp\bin\Debug\netcoreapp2.1\AC.Domain.pdb
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.PersonApp\bin\Debug\netcoreapp2.1\AC.Infrastruture.pdb
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.PersonApp\bin\Debug\netcoreapp2.1\AC.Persistence.pdb
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.PersonApp\obj\Debug\netcoreapp2.1\AC.PersonApp.csprojAssemblyReference.cache
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.PersonApp\obj\Debug\netcoreapp2.1\AC.PersonApp.csproj.CoreCompileInputs.cache
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.PersonApp\obj\Debug\netcoreapp2.1\AC.PersonApp.AssemblyInfoInputs.cache
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.PersonApp\obj\Debug\netcoreapp2.1\AC.PersonApp.AssemblyInfo.cs
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.PersonApp\obj\Debug\netcoreapp2.1\AC.PersonApp.csproj.CopyComplete
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.PersonApp\obj\Debug\netcoreapp2.1\AC.PersonApp.dll
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.PersonApp\obj\Debug\netcoreapp2.1\AC.PersonApp.pdb

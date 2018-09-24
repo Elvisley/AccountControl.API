@@ -1,0 +1,8 @@
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.Messages\bin\Debug\netcoreapp2.1\AC.Messages.deps.json
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.Messages\bin\Debug\netcoreapp2.1\AC.Messages.dll
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.Messages\bin\Debug\netcoreapp2.1\AC.Messages.pdb
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.Messages\obj\Debug\netcoreapp2.1\AC.Messages.csproj.CoreCompileInputs.cache
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.Messages\obj\Debug\netcoreapp2.1\AC.Messages.AssemblyInfoInputs.cache
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.Messages\obj\Debug\netcoreapp2.1\AC.Messages.AssemblyInfo.cs
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.Messages\obj\Debug\netcoreapp2.1\AC.Messages.dll
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.Messages\obj\Debug\netcoreapp2.1\AC.Messages.pdb

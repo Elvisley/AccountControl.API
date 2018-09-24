@@ -1,0 +1,16 @@
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.TransactionTypeApp\bin\Debug\netcoreapp2.1\AC.TransactionTypeApp.deps.json
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.TransactionTypeApp\bin\Debug\netcoreapp2.1\AC.TransactionTypeApp.dll
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.TransactionTypeApp\bin\Debug\netcoreapp2.1\AC.TransactionTypeApp.pdb
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.TransactionTypeApp\bin\Debug\netcoreapp2.1\AC.Domain.dll
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.TransactionTypeApp\bin\Debug\netcoreapp2.1\AC.Infrastruture.dll
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.TransactionTypeApp\bin\Debug\netcoreapp2.1\AC.Persistence.dll
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.TransactionTypeApp\bin\Debug\netcoreapp2.1\AC.Infrastruture.pdb
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.TransactionTypeApp\bin\Debug\netcoreapp2.1\AC.Domain.pdb
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.TransactionTypeApp\bin\Debug\netcoreapp2.1\AC.Persistence.pdb
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.TransactionTypeApp\obj\Debug\netcoreapp2.1\AC.TransactionTypeApp.csprojAssemblyReference.cache
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.TransactionTypeApp\obj\Debug\netcoreapp2.1\AC.TransactionTypeApp.csproj.CoreCompileInputs.cache
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.TransactionTypeApp\obj\Debug\netcoreapp2.1\AC.TransactionTypeApp.AssemblyInfoInputs.cache
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.TransactionTypeApp\obj\Debug\netcoreapp2.1\AC.TransactionTypeApp.AssemblyInfo.cs
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.TransactionTypeApp\obj\Debug\netcoreapp2.1\AC.TransactionTypeApp.csproj.CopyComplete
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.TransactionTypeApp\obj\Debug\netcoreapp2.1\AC.TransactionTypeApp.dll
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.TransactionTypeApp\obj\Debug\netcoreapp2.1\AC.TransactionTypeApp.pdb

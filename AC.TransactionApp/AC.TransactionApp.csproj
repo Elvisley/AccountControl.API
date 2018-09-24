@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AC.Enum\AC.Enum.csproj" />
+    <ProjectReference Include="..\AC.Infrastruture\AC.Infrastruture.csproj" />
+    <ProjectReference Include="..\AC.SecurityContribution\AC.SecurityContribution.csproj" />
+  </ItemGroup>
+
+</Project>

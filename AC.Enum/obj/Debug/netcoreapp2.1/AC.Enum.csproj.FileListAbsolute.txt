@@ -1,0 +1,9 @@
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.Enum\bin\Debug\netcoreapp2.1\AC.Enum.deps.json
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.Enum\bin\Debug\netcoreapp2.1\AC.Enum.dll
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.Enum\bin\Debug\netcoreapp2.1\AC.Enum.pdb
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.Enum\obj\Debug\netcoreapp2.1\AC.Enum.csproj.CoreCompileInputs.cache
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.Enum\obj\Debug\netcoreapp2.1\AC.Enum.AssemblyInfoInputs.cache
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.Enum\obj\Debug\netcoreapp2.1\AC.Enum.AssemblyInfo.cs
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.Enum\obj\Debug\netcoreapp2.1\AC.Enum.dll
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.Enum\obj\Debug\netcoreapp2.1\AC.Enum.pdb
+C:\Users\1544 IRON V4\Desktop\Solution1\AC.Enum\obj\Debug\netcoreapp2.1\AC.Enum.csprojAssemblyReference.cache
